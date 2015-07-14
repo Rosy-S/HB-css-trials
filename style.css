@@ -1,0 +1,23 @@
+.box {
+    height: 200px;
+    width: 100px;
+    display: inline-block;
+}
+
+
+#red {
+    background-color: #d81f3e;
+}
+
+#blue {
+    background-color: #3e2d8b;
+}
+
+#yellow {
+    background-color: yellow;
+
+}
+
+body {
+    margin: 0;
+}
